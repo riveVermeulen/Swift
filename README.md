@@ -77,3 +77,20 @@ Hier ben ik naar een netwerking event gegaan waar ik verschillende Start up orga
 * [IMinds!](http://www.iminds.be/).
 * [Digipolis!](http://www.digipolis.be/).
 
+### Extra Referenties
+
+* De ingebouwde Documentation and Api Reference guide in Xcode.
+* Swift iBook gratis te downloaden
+* [We <3 Swift](http://www.weheartswift.com/).
+* [Swift Tips&Tricks](http://www.learnswift.tips/).
+* [Swift Cast](https://swiftcast.tv/articles/build-a-simple-twitter-ios-app-with-swift)
+
+
+### Interessante mensen
+
+* [@pasanpr](https://twitter.com/pasanpr?lang=nl).
+* [@paradoxed](https://twitter.com/paradoxed?lang=nl)
+* [@mattjgalloway](https://twitter.com/mattjgalloway)
+
+
+
