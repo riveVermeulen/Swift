@@ -84,6 +84,8 @@ Hier ben ik naar een netwerking event gegaan waar ik verschillende Start up orga
 * [We <3 Swift](http://www.weheartswift.com/).
 * [Swift Tips&Tricks](http://www.learnswift.tips/).
 * [Swift Cast](https://swiftcast.tv/articles/build-a-simple-twitter-ios-app-with-swift)
+* [Lynda](http://www.lynda.com/Swift-tutorials/iOS-App-Development-Swift-Essential-Training/185036-2.html)
+* [iOS-blog](http://ios-blog.co.uk/swift-tutorials/)
 
 
 ### Interessante mensen
